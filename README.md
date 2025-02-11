@@ -1,5 +1,5 @@
 
- **Loan Approval Data Analysis – Exploratory Data Analysis (EDA)**  
+ ### **Loan Approval Data Analysis – Exploratory Data Analysis (EDA)**  
 
 ### **Project Overview:**  
 This project performs an exploratory data analysis (EDA) on a loan approval dataset. The objective is to clean, process, and visualize the data to uncover insights into factors affecting loan approvals. The analysis includes handling missing values, detecting outliers, feature engineering, and visualizing relationships between variables.  
